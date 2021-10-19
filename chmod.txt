@@ -1,0 +1,2 @@
+chmod 600 ~/.ssh/*
+chmod 755 ~/.ssh
